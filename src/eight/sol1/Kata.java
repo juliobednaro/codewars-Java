@@ -1,4 +1,4 @@
-package one;
+package eight.sol1;
 
 public class Kata {
     public static int squareSum(int[] n) {

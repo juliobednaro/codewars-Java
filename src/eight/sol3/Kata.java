@@ -1,4 +1,4 @@
-package three;
+package eight.sol3;
 
 import java.util.Arrays;
 

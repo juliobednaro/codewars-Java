@@ -1,4 +1,4 @@
-package two;
+package eight.sol2;
 
 public class Kata {
     public static String greet(String name)
