@@ -2,7 +2,8 @@ package eight.sol6;
 
 public class HelloWorld {
     public static String greet() {
-        System.out.println("⠀⠀⠘⡀⠀⠀⠀⠀⠀HELLO WORLD⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀\n" +
+        System.out.println(
+                "⠀⠀⠘⡀⠀⠀⠀⠀⠀HELLO WORLD⠀⠀⠀⠀⠀⠀⡜⠀⠀⠀\n" +
                 "⠀⠀⠀⠑⡀⠀⠀⠀⠀⠀⠀ENJOYERS⠀⠀⠀⠀⠀⠀⡔⠁⠀⠀⠀\n" +
                 "⠀⠀⠀⠀⠈⠢⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠴⠊⠀⠀⠀⠀⠀\n" +
                 "⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⢀⣀⣀⣀⣀⣀⡀⠤⠄⠒⠈⠀⠀⠀⠀⠀⠀⠀⠀\n" +
